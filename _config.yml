@@ -1,8 +1,6 @@
-remote_theme:  h01000110/windows-95
-
 permalink: /:year:month:day/:title
 url: #Your url here
-baseurl: /project
+baseurl: https://proxaimonk.github.io/monkai/
 
 # variables
 name: Your Site Name
